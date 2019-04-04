@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set name="template">
   <slide_groups>
-  <slide_group name="" type="custom" print="true" seconds="0" loop="false" transition="0">
-  <title>Introduction</title>
-  <subtitle></subtitle>
+  <slide_group name="Introduction" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Welcome to English Service!</body></slide></slides></slide_group>
+  <slide_group name="0 Placeholder" type="song" presentation="" path="English/"/>
+  <slide_group name="Opening Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Opening Prayer</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Scripture Reading" print="true" seconds="0" loop="false" transition="0">
+  <title>Genesis 1:1-6</title>
+  <subtitle>KJV</subtitle>
   <notes></notes>
   <slides>
   <slide>
-  <body>Welcome to Service</body></slide></slides></slide_group></slide_groups></set>
+  <body>1 In the beginning God created the heaven and the earth.
+2 And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.</body></slide>
+  <slide>
+  <body>3 And God said, Let there be light: and there was light.
+4 And God saw the light, that it was good: and God divided the light from the darkness.</body></slide>
+  <slide>
+  <body>5 And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+6 And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.</body></slide></slides></slide_group>
+  <slide_group name="0 Placeholder" type="song" presentation="" path="English/"/>
+  <slide_group name="Intercessory Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Intercessory Prayer</body></slide></slides></slide_group>
+  <slide_group name="0 Placeholder" type="song" presentation="" path="English/"/>
+  <slide_group name="Sermon" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Sermon</title>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>How not to get excommunicated
+Kevin Ong</body></slide></slides></slide_group>
+  <slide_group name="0 Placeholder" type="song" presentation="" path="English/"/>
+  <slide_group type="scripture" name="Memory Verse" print="true" seconds="0" loop="false" transition="0">
+  <title>1 Chronicles 10:10-11</title>
+  <subtitle>KJV</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>10 And they put his armour in the house of their gods, and fastened his head in the temple of Dagon.
+11 And when all Jabeshgilead heard all that the Philistines had done to Saul,</body></slide></slides></slide_group>
+  <slide_group name="Announcements" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Announcement</title>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Young Adult Fellowship
+Friday, April 5th at 7:30pm  
+    Speaker: Rev. Hengkie Tjahjadi 
+    Topic:
+“True grace through sanctification”</body></slide>
+  <slide>
+  <body>Good Friday Service will be held on April 19 in IEC San Jose at 7:30 pm</body></slide>
+  <slide>
+  <body>IEC SF 34th Anniversary will be on April 21 along with Baptism, Child dedication, and new membership</body></slide></slides></slide_group>
+  <slide_group name="doxology" type="song" presentation="" path="English/"/>
+  <slide_group name="End Slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Have a Blessed Week!</title>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>“May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.” – 2 Cor 13:14</body></slide></slides></slide_group></slide_groups></set>

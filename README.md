@@ -1,6 +1,16 @@
 # IEC-Opensong
-Master Opensong Repo
+Master IEC Opensong Repo
 
+---
+Notes:
+
+Using github as a syncing solution but can use dropbox or something else in the future
+
+Useful Links to utilities and projects http://www.opensong.org/home/links
+
+Potential API usage http://www.opensong.org/home/api
+
+---------
 Known issues with opensong (source: https://worshipleaderapp.com/en/opensong )
 
 1. Make sure you have your projector or second screen plugged in and active before you start OpenSongOSX. OpenSong will not recognize the projector if you plug it in after OpenSongOSX has started (this is the same in Windows, BTW).

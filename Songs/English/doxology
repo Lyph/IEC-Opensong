@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Doxology</title>
-<presentation>V</presentation>
-<copyright>Public Domain</copyright>
-<author>Thomas Ken, Louis Bourgeois</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Doxology</title>
+  <presentation>V1</presentation>
+  <copyright>Public Domain</copyright>
+  <author>Thomas Ken, Louis Bourgeois</author>
+  <lyrics>[V1]
 .E           B    C#m  G#m C#m B     E
  Praise God, from whom all blessings flow;
 .                B   C#m   A    E B
@@ -13,5 +15,18 @@
  Praise Father, Son and Ho___ly Ghost.
 .A  E
  A__men.</lyrics>
-<key>E</key>
+  <key>E</key>
+  <hymn_number></hymn_number>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
