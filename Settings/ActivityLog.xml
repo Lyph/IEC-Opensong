@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+  <Entry1>
+  <Date>2019-04-03</Date>
+  <Time>00:34:16</Time>
+  <Description>1</Description>
+  <FileName>( All )/testSet</FileName>
+  <title>testSet</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry1>
+  <Entry2>
+  <Date>2019-04-03</Date>
+  <Time>00:34:27</Time>
+  <Description>2</Description>
+  <FileName>( All )/testSet</FileName>
+  <title>testSet</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry2>
+  <Entry3>
+  <Date>2019-04-03</Date>
+  <Time>00:35:19</Time>
+  <Description>5</Description>
+  <FileName>/And Can It Be</FileName>
+  <title>And Can It Be</title>
+  <author>Lindell Cooley</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry3>
+  <Entry4>
+  <Date>2019-04-03</Date>
+  <Time>00:35:19</Time>
+  <Description>5</Description>
+  <FileName>/He Leadeth Me</FileName>
+  <title>He Leadeth Me</title>
+  <author>Joseph Gilmore &amp; William B. Bradbury</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry4>
+  <Entry5>
+  <Date>2019-04-03</Date>
+  <Time>00:35:19</Time>
+  <Description>5</Description>
+  <FileName>/What A Friend We Have In Jesus</FileName>
+  <title>What A Friend We Have In Jesus</title>
+  <author>Joseph M. Scriven &amp; Charles C. Convers</author>
+  <ccli>27714</ccli>
+  <HasChords>true</HasChords></Entry5>
+  <Entry6>
+  <Date>2019-04-03</Date>
+  <Time>00:35:19</Time>
+  <Description>5</Description>
+  <FileName>/It Is Well With My Soul</FileName>
+  <title>It Is Well With My Soul</title>
+  <author>Horatio Spafford and Philip Bliss</author>
+  <ccli>25376</ccli>
+  <HasChords>true</HasChords></Entry6>
+  <Entry7>
+  <Date>2019-04-03</Date>
+  <Time>18:18:26</Time>
+  <Description>1</Description>
+  <FileName>( All )/AAA Placeholder</FileName>
+  <title>AAA Placeholder</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry7>
+  <Entry8>
+  <Date>2019-04-03</Date>
+  <Time>18:18:48</Time>
+  <Description>3</Description>
+  <FileName>( All )/AAA Placeholder</FileName>
+  <title>AAA Placeholder</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry8>
+  <Entry9>
+  <Date>2019-04-03</Date>
+  <Time>18:18:59</Time>
+  <Description>3</Description>
+  <FileName>( All )/AAA Placeholder</FileName>
+  <title>0 Placeholder</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry9>
+  <Entry10>
+  <Date>2019-04-03</Date>
+  <Time>18:19:17</Time>
+  <Description>2</Description>
+  <FileName>( All )/AAA Placeholder</FileName>
+  <title>0 Placeholder</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry10>
+  <Entry11>
+  <Date>2019-04-03</Date>
+  <Time>18:19:35</Time>
+  <Description>1</Description>
+  <FileName>( All )/0 Placeholder</FileName>
+  <title>0 Placeholder</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry11>
+  <Entry12>
+  <Date>2019-04-03</Date>
+  <Time>18:36:52</Time>
+  <Description>3</Description>
+  <FileName>( All )/0 Placeholder</FileName>
+  <title>0 Placeholder</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry12>
+  <Entry13>
+  <Date>2019-04-03</Date>
+  <Time>18:39:06</Time>
+  <Description>2</Description>
+  <FileName>English/closer 2</FileName>
+  <title>Closer</title>
+  <author>Bethel Music</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry13></log>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="template">
+  <slide_groups>
+  <slide_group name="" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Introduction</title>
+  <subtitle></subtitle>
+  <notes></notes>
+  <slides>
+  <slide>
+  <body>Welcome to Service</body></slide></slides></slide_group></slide_groups></set>
